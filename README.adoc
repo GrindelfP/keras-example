@@ -1,0 +1,4 @@
+= Keras Example =
+
+== Description ==
+Excercise on using keras library for reactions analysis. The task implements Python Keras library to build a neural network for recognition and analysis of emotional recations in comments.
